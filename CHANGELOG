@@ -1,0 +1,7 @@
+Minor version 1.0.2
+  * Bug fix for IE when elements have no margins set
+
+Minor version 1.0.1
+  * Use $.fn.outerWidth()
+
+First release 1.0.0
